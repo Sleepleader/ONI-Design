@@ -13,5 +13,6 @@
             <TextBlock Text="你好" FontSize="40" TextAlignment="Center"/>
             <TextBlock Text="海内存知己，天涯若比邻" FontSize="30" TextAlignment="Center"/>
         </StackPanel>
+        
     </Grid>
 </Page>
